@@ -1,3 +1,5 @@
+# This is a pre-compiled version of alex-vg's play-dl2, you should be able to simply 'npm install' this repo for usage.
+
 # Play-dl
 
 A **light-weight** YouTube, SoundCloud, Spotify and Deezer streaming and searching library.
